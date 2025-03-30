@@ -44,7 +44,7 @@ const footer = document.querySelector('.footer');
 const message = document.createElement('div');
 message.classList.add('cookie-message');
 message.innerHTML =
-  'We use cookied for improved functionality and analytics. <button class="btn btn--close-cookie">Got it!</button>';
+  'Kara Spark is your best choise for development and progress. <button class="btn btn--close-cookie">Got it!</button>';
 header.prepend(message);
 // footer.append(message);
 
